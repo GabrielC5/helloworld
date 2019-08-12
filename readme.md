@@ -1,5 +1,4 @@
 hellowolrd
-computação para dispositivos moveis >> readme.md
+CENTRO UNIVERSITARIO DOS GUARARAPES - UNIFG
+Disciplina de Computaçao para Dispositivos Moveis
 
-echo computação para dispositivos moveis
-computação para dispositivos moveis
